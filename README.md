@@ -4,4 +4,4 @@
  
  cut4 : 변수 등등 
  
- cut5 : list 끝 읽어올 때 vc.open 한번 더 하는 상황 제
+ cut5 : list 끝 읽어올 때 vc.open 한번 더 하는 상황 제거  
